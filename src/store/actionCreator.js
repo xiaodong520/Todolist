@@ -6,7 +6,7 @@ export const getInputvalueAction = (value) => ({
 });
 export const add_todo_item_action = () => ({
     type: ADD_TODOLIST_ITEM
-})
+});
 export const dele_todo_item_action=(index)=>{
     return (
         {
